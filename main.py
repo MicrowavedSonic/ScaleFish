@@ -1,1 +1,1 @@
-print("Hi dew who always dont let me play roblox in class")
+print("joe")
